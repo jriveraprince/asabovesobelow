@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-About this site
+This is another tab that we can use and we can add more easily
 
-```{r}
-1 + 1
-```
+

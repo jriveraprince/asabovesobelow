@@ -1,11 +1,7 @@
 ---
-title: "asabovesobelow"
+title: "As Above / So Below"
 ---
 
-This is a Quarto website.
+testing the text, this will be the home page, yay!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```

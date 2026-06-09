@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "asabovesobelow"
+  title: "As Above / So Below"
   navbar:
     left:
       - href: index.qmd
