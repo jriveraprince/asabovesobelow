@@ -1,7 +1,13 @@
 ---
-title: "As Above / So Below"
+title: "As Above/So Below"
 ---
 
-testing the text, this will be the home page, yay!
+![](images/NBG7.jpg){fig-align="center"}
 
+Welcome to the landing page for As Above/So Below: Guiding Historic Cemetery Futures.
 
+For information about the working group, please go to the [About tab](https://jriveraprince.github.io/asabovesobelow/about.html).
+
+For more information about the participants, please go to the [Statements tab](https://jriveraprince.github.io/asabovesobelow/statements.html).
+
+As Above/So Below is a working group that was initially inspired by the [AASLH-NCPH 2026 Annual Meeting](https://ncph.org/conference/2026-annual-meeting/).

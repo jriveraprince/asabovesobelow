@@ -2,11 +2,45 @@
 title: "Statements"
 ---
 
-about the statements here
+The NCPH working group format includes the sharing of “case statements” which are personal statements that explain each participant's relationship to the topic of the working group.
+
+Case Statement Questions for everyone:
+
+- Who are you and what is your professional background?
+
+- What is your current experience in cemeteries (what is your job, role, or research area of interest?)
+
+- What is the long term goal or vision for the work you’re doing?
+
+- What do you hope to learn from or be in dialogue about with others in this cohort?
+
+- How do you define an operational historic cemetery?
+
+Case Statement Questions for Cemeterians
+
+- Does your cemetery already do programming? If so, provide a short summary of those programs and your current approach to thinking about developing programming.
+
+- Describe the community where your cemetery sits and the demographics of the community you serve.
+
+Case Statement Questions for Researchers
+
+- What do you do in the cemetery space?
+
+- What if any collaborations do you do with cemetery management/personnel?
+
+- Where do you see yourself in the community where your cemetery sits?
+
+![](images/NBG2.jpg)
+
+# Case Statements
 
 ## Kim Bearden
 
+Coming soon
+
 ## Sharon Carpentier
+
+Coming soon
 
 ## Savannah Cravey
 
@@ -19,6 +53,10 @@ As a researcher, I take an interdisciplinary approach to cemetery studies, inclu
 As a young child, my Mema would make up stories about people buried in the cemeteries we use to visit. While she did not have the historical methods or tools to back up her stories, she understood the power of remembering and memorializing each person buried in those cemeteries. The goal for my work, and those I collaborate with, should always be to educate, and promote those stories. Cemeteries are some of the only places of memory that exist for most of us when we die. Their stories may be harder to find, but their names may be forever etched in stone. Each individual that engages with a cemetery, should understand the power of the place through the history of those buried there.
 
 ## Aaron Comte
+
+Coming soon
+
+![](images/NBG1.jpg){fig-align="center"}
 
 ## Kurt Deion
 
@@ -35,6 +73,8 @@ I regard an operational historic cemetery to be a cemetery that: (A) is over 100
 My goals for my work at Congressional Cemetery includes continuing programming that appeals to our community while also respecting the cemetery non-profit’s values and its status as an active burial ground. I would also like to compile more research about the cemetery’s rise from its late twentieth-century decline, including but not limited to the history of the development of our public programs.
 
 ## Megan Hahin
+
+Coming soon
 
 ## Annalisa Heppner
 
@@ -56,9 +96,15 @@ I’m interested in learning from the group about how to build administration bu
 
 I define an operational historic cemetery as a cemetery with an historic component that is still serving families who have suffered a loss and that has a management structure. I think this helps expand beyond the idea that an operational cemetery must be doing burial or inurnment, but the act of caring for the space in service of the bereaved is what makes a cemetery operational.
 
+![](images/NBG8.jpg){fig-align="center"}
+
 ## Greg Howard
 
+Coming soon
+
 ## Sara Lowenburg
+
+Coming soon
 
 ## Amy Michael
 
@@ -69,6 +115,10 @@ My interest in cemeteries comes from an unidentified and/or unclaimed remains pe
 I hope to learn from the others in this cohort who are actively involved in maintaining records, finding archival sources, and mapping cemeteries. Personally, I’m interested in cemetery maintenance and expanded cemetery tourism because I believe cemeteries are places where we can show extended respect for people after they have died. My forensic research is rooted in the twin principles of unbounded respect for decedents and insistence on dignified final disposition. To this end, I hope to learn from researchers and cemetarians about how they operate within their spaces given the constraints we all experience on time, labor, funding, and more.
 
 ## Christina Miles
+
+Coming soon
+
+![](images/NBG9.jpg){fig-align="center"}
 
 ## A.J. Orlikoff
 
@@ -91,6 +141,10 @@ I am particularly interested in being in dialogue with others about the future e
 I define an operational historic cemetery as a cemetery that continues to actively serve the living, whether through burial operations, memorialization, stewardship, education, or community engagement, while simultaneously preserving and interpreting the historic landscape under its care. An operational cemetery is not simply a preserved historic site; it is a dynamic institution that exists in ongoing relationship with its community and must continuously evolve to remain meaningful across generations.
 
 ## Kelly Perry
+
+Coming soon
+
+![](images/NBG3.jpg){fig-align="center"}
 
 ## Nancy Parode
 
@@ -118,7 +172,7 @@ In this working group, I hope to learn how fellow cohort members have navigated 
 
 ## Jordi Rivera Prince
 
-To be included
+Coming soon
 
 ## Ella Scalese
 
@@ -133,6 +187,8 @@ As a researcher, my work within the space primarily involves working through the
 While my work primarily centers around nineteenth-century cemetery tourism, I hope to bring a contemporary aspect into my project in the long term. I am interested in the intersection between tourism-cultural identity-profit generation, particularly the way in which the preservation of historic sites is complicated by tourism. How might tourism positively or detrimentally affect historic cemetery preservation, while simultaneously generating the revenue that often makes that preservation possible in the first place? I specifically hope to be in dialogue with others in this cohort about what contemporary cemetery tourism might look like. In my own research, I am interested in considering how Laurel Hill Cemetery might play into the 250th celebration within Philadelphia.
 
 I define an operational historic cemetery as a cemetery space that honors its historic heritage while simultaneously continuing to serve its community through burial practices in the present day, or maintaining past gravesites. While my definition arises from the perspective of the researcher, I am interested in understanding how a cemeterian might define a historic cemetery.
+
+![](images/NBG4.jpg){fig-align="center"}
 
 ## Jana Silva
 
@@ -180,6 +236,10 @@ The preservation of historic cemeteries has not been equitable throughout the Un
 
 ## Ana Swartz
 
+Coming soon
+
+![](images/NBG5.jpg){fig-align="center"}
+
 ## Jon Taylor
 
 Hello everyone, my name is Jon Taylor and I am Professor of History at the University of Central Missouri (UCM) in Warrensburg, which is located about 30 miles to the east of Kansas City where I have taught American history and public history for twenty-two years. My students have always been interested in cemeteries and their evolution, especially in Missouri. In 2023 UCM applied for a [Veterans Legacy Grant](https://www.cem.va.gov/legacy/grants.asp) from the Veterans Administration to fund graduate and undergraduate students to research, write, and publicly share the stories of United States Colored Troops that were laid to rest at the Fort Scott National Cemetery in Fort Scott, Kansas, and World War II veterans who are interred at the Missouri State Veterans Cemetery in Higginsville. The students created a database of veterans from each respective cemetery and then researched the lives of those veterans and completed selected veteran biographies from each cemetery. Those biographies can be found at the [Veterans Legacy](https://www.vlm.cem.va.gov/) Memorial homepage. [You can read some of the biographies and learn more about each cemetery here.](https://sites.google.com/ucmo.edu/ucm-vvh/home)
@@ -223,3 +283,5 @@ shared stories and shared spaces strengthen community bonds. By inviting constit
 HOF’s approach to program development is grounded in community- and audience centered planning and a commitment to DEIA principles. The Foundation actively seeks input from residents, educators, and neighborhood leaders to shape new initiatives. In 2023, HOF hosted open houses for six neighborhoods to better understand community needs and aspirations. This participatory model ensures that programming is relevant, inclusive, and reflective of the people who live closest to the cemetery.
 
 Oakland sits at the intersection of several historic and culturally rich Atlanta neighborhoods. These communities are diverse in race, income, age, and cultural identity, and many are experiencing rapid redevelopment and demographic change. The neighborhoods most directly connected to Oakland include, Grant Park - a historic residential neighborhood with families, long-term residents, and increasing density; Cabbagetown - a former mill village known for its strong arts community and distinctive neighborhood identity; Reynoldstown - a historically Black neighborhood undergoing significant redevelopment and demographic shifts; Old Fourth Ward - a neighborhood central to Atlanta’s Civil Rights history and now one of the city’s fastest growing neighborhoods; Summerhill - one of Atlanta’s oldest neighborhoods, currently experiencing major commercial and residential redevelopment; an Peoplestown - a historically working-class, predominantly Black community facing displacement pressures.
+
+![](images/NBG6.jpg){fig-align="center"}
